@@ -60,10 +60,9 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnchicaiza&show_icons=true&count_private=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnchicaiza&layout=compact&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnAchicaizaG&show_icons=true&count_private=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAchicaizaG&layout=compact&theme=radical" width="47%" />
 </div>
-
 ---
 
 ## 🌐 Mi portafolio
