@@ -73,8 +73,6 @@
 
 </p>
 
-
-
 ## 🌐 Mi portafolio
 
 <p align="center">
