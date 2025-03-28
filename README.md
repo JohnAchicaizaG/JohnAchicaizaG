@@ -93,7 +93,4 @@
   <a href="https://www.linkedin.com/in/jachicaizag92/">
     <img src="https://img.shields.io/badge/LinkedIn-John%20Chicaiza-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/JohnAchicaizaG">
-    <img src="https://img.shields.io/badge/GitHub-JohnAchicaizaG-black?style=for-the-badge&logo=github&logoColor=white">
-  </a>
 </p>
