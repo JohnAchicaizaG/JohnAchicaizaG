@@ -10,7 +10,6 @@
 
 ## 📌 Sobre mí
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" />
 
 - 💻 Desarrollador Web Fullstack con enfoque en soluciones escalables.
 - 🧠 Apasionado por la arquitectura limpia, principios SOLID y buenas prácticas.
@@ -73,19 +72,12 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 </p>
-  
-
-
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnAchicaizaG&show_icons=true&count_private=true&theme=radical" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAchicaizaG&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JohnAchicaizaG&theme=radical&margin-w=15&no-frame=true" />
 </p>
 ---
 
