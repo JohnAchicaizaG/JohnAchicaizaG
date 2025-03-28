@@ -72,8 +72,8 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 </p>
----
----
+
+
 
 ## 🌐 Mi portafolio
 
