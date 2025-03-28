@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F2FF&size=22&center=true&vCenter=true&width=800&height=60&lines=Fullstack+Developer+con+5+a%C3%B1os+de+experiencia;Amante+de+la+arquitectura+limpia+y+SOLID;Frontend+%7C+Backend+%7C+DevOps+ligero;Construyo+soluciones+modernas+y+escalables+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F2FF&size=22&center=true&vCenter=true&width=800&height=60&lines=Fullstack+Developer+con+5+a%C3%B1os+de+experiencia;Frontend+%7C+Backend+%7C+DevOps+ligero;Construyo+soluciones+modernas+y+escalables+🚀" alt="Typing SVG" />
   </a>
 </p>
 
@@ -73,10 +73,6 @@
 
 </p>
 ---
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/JohnAchicaizaG?template=classic&isocalendar=1&isocalendar.duration=full-year&config.timezone=America%2FBogota" alt="Resumen de contribuciones de John" />
-</p>
 ---
 
 ## 🌐 Mi portafolio
