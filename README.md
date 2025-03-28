@@ -1,30 +1,29 @@
-<h1 align="center"><b>Hola, soy John Alexander Chicaiza 👨‍💻</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello, I'm John Alexander Chicaiza 👨‍💻</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F2FF&size=22&center=true&vCenter=true&width=800&height=60&lines=Fullstack+Developer+con+5+a%C3%B1os+de+experiencia;Frontend+%7C+Backend+%7C+DevOps+ligero;Construyo+soluciones+modernas+y+escalables+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F2FF&size=22&center=true&vCenter=true&width=800&height=60&lines=Fullstack+Developer+with+5+years+of+experience;Frontend+%7C+Backend+%7C+Light+DevOps;I+build+modern+and+scalable+solutions+🚀" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 📌 Sobre mí
+## 📌 About Me
 
-
-- 💻 Desarrollador Web Fullstack con enfoque en soluciones escalables.
-- 🧠 Apasionado por la arquitectura limpia, principios SOLID y buenas prácticas.
-- 🌐 Trabajo con tecnologías modernas como Angular, React, Astro y Tailwind CSS.
-- 📦 Backend con Node.js, NestJS, .NET, PostgreSQL, Redis y más.
-- ♿️ Comprometido con accesibilidad, SEO técnico y optimización del rendimiento.
-- 🚀 Siempre listo para aprender y colaborar en nuevos retos.
+- 💻 Fullstack Web Developer focused on building scalable, real-world solutions.
+- 🧠 Passionate about Clean Architecture, SOLID principles, and good practices.
+- 🌐 Skilled in modern technologies like Angular, React, Astro, and Tailwind CSS.
+- 📦 Backend development with Node.js, NestJS, .NET, PostgreSQL, Redis, and more.
+- ♿️ Committed to accessibility, technical SEO, and performance optimization.
+- 🚀 Always eager to learn and collaborate on challenging projects.
 
 ---
 
-## 🚀 Tecnologías & Herramientas
+## 🚀 Technologies & Tools
 
 <p align="center">
 
-<!-- Lenguajes -->
+<!-- Languages -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -37,7 +36,7 @@
 <img src="https://img.shields.io/badge/Vue-42B883.svg?style=for-the-badge&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white"/>
 
-<!-- Estilos -->
+<!-- Styling -->
 <br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -50,21 +49,21 @@
 <img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
-<!-- Bases de datos -->
+<!-- Databases -->
 <br/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-<!-- DevOps / Infra / Tools -->
+<!-- DevOps / Tools -->
 <br/>
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
-<!-- Hosting / Despliegue -->
+<!-- Deployment -->
 <br/>
 <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -73,21 +72,28 @@
 
 </p>
 
-## 🌐 Mi portafolio
+---
+
+## 🌐 My Portfolio
 
 <p align="center">
   <a href="https://portfolio-john-chicaiza.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-%2300C896?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-%2300C896?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🤝 ¡Conectemos!
+## 🤝 Let's Connect!
 
 <p align="center">
   <a href="mailto:jachicaiza@outlook.com">
-  <img src="https://img.shields.io/badge/Outlook-jachicaiza@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-</a>
-  <a href="https://www.linkedin.com/in/jachicaizag92/"><img src="https://img.shields.io/badge/LinkedIn-John%20Chicaiza-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/johnchicaiza"><img src="https
+    <img src="https://img.shields.io/badge/Outlook-jachicaiza@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jachicaizag92/">
+    <img src="https://img.shields.io/badge/LinkedIn-John%20Chicaiza-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/JohnAchicaizaG">
+    <img src="https://img.shields.io/badge/GitHub-JohnAchicaizaG-black?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
