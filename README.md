@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hola, soy John Alexander Chicaiza
 
-<!--
-**JohnAchicaizaG/JohnAchicaizaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador web Fullstack con +5 años de experiencia construyendo soluciones modernas, eficientes y accesibles. Apasionado por el código limpio, la arquitectura escalable y el impacto real en los proyectos.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Aplico principios SOLID y Clean Architecture en todos mis proyectos.
+- 🔍 Enfocado en desarrollo frontend con **Angular, React, Astro** y **Tailwind CSS**.
+- 🛠 Backend sólido con **Node.js**, **NestJS**, **.NET**, y bases de datos como **PostgreSQL, SQL Server y SQLite**.
+- ☁️ Creo soluciones JAMstack con despliegue en **Netlify** y lógica manejada por **Astro Actions** o **Firebase**.
+- 📱 Desarrollo web y móvil multiplataforma.
+- ♿️ Me enfoco en **accesibilidad, SEO técnico** y optimización de rendimiento.
+
+## 🧩 Tech Stack
+
+```ts
+Frontend: Angular | React | Astro | Tailwind CSS | HTML5 | CSS3  
+Backend: Node.js | NestJS | Express | .NET (C#)  
+DB: PostgreSQL | SQLite | SQL Server  
+Tools: Git | Docker | Firebase | Supabase | Redis | Swagger | Vite | Nx | Vitest | Cypress
