@@ -74,10 +74,8 @@
 </p>
 ---
 
-## 📊 Estadísticas de GitHub
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JohnAchicaizaG&theme=radical&margin-w=15&no-frame=true" />
+  <img src="https://metrics.lecoq.io/JohnAchicaizaG?template=classic&isocalendar=1&isocalendar.duration=full-year&config.timezone=America%2FBogota" alt="Resumen de contribuciones de John" />
 </p>
 ---
 
