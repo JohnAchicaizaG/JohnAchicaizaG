@@ -59,10 +59,13 @@
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnAchicaizaG&show_icons=true&count_private=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAchicaizaG&layout=compact&theme=radical" width="47%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnAchicaizaG&show_icons=true&count_private=true&theme=radical" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAchicaizaG&layout=compact&theme=radical" width="80%" />
+</p>
 ---
 
 ## 🌐 Mi portafolio
@@ -78,6 +81,8 @@
 ## 🤝 ¡Conectemos!
 
 <p align="center">
-  <a href="mailto:jachicaiza@outlook.com"><img src="https://img.shields.io/badge/Gmail-john.chicaiza.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:jachicaiza@outlook.com">
+  <img src="https://img.shields.io/badge/Outlook-jachicaiza@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</a>
   <a href="https://www.linkedin.com/in/jachicaizag92/"><img src="https://img.shields.io/badge/LinkedIn-John%20Chicaiza-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/johnchicaiza"><img src="https
